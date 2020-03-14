@@ -1,0 +1,30 @@
+Elements Symbol,What is the element symbol of Berillium?,Be
+Elements Symbol,What is the element symbol of Magnesium?,Mg
+Elements Symbol,Ar is the element symbol of?,Argon
+Elements Symbol,What is the element symbol of Aluminium?,Al
+Elements Symbol,Si is the element symbol of?,Silicon
+Elements Symbol,N is the element symbol of?,Nitrogen
+Elements Symbol,What is the element symbol of Chlorine?,Cl
+Elements Symbol,S is the element symbol of?,Sulfur
+Elements Symbol,What is the element symbol of Sodium?,Na
+Elements Symbol,P is the element symbol of?,Phosphorus
+Elements Symbol,What is the element symbol of Potassium?,K
+Ionic Charge,What is the ionic charge of Al,+3
+Ionic Charge,What is the ionic charge of I,-1
+Ionic Charge,What is the ionic charge Hydrogen,1
+Ionic Charge,What is the ionic charge of OH,-1
+Ionic Charge,-1 is the ionic charge for element in group...,17
+Ionic Charge,What is the ionic charge of SO4,-2
+Ionic Charge,+3 is the ionic charge for element in group...,13
+Ionic Charge,What is the ionic charge of Pb,+2
+Ionic Charge,+1 is the ionic charge for element in group...,1
+Reaction,Hydrogen + _______ --> Water,oxygen
+Reaction,Copper + Oxygen --> Copper _______,oxide
+Reaction,_______ --> Silver + Bromine,silver bromide
+Reaction,Hydrochloric Acid + Sodium Hydroxide --> _______ + Water,sodium chloride
+Reaction,_______  + Hydrochloric --> Calcium Chloride + Carbon Dioxide + Water,calcium carbonate
+Reaction,Sulfuric Acid + Zinc --> _______ + Hydrogen,zinc chloride
+Reaction,Calcium Carbonate --> _______ + Carbon dioxide,calcium oxide
+Reaction,Magnesium + _______ --> Lead + Magnesium bromide,lead bromide
+Reaction,Hydrogen Peroxide --> _______ + Oxygen,water
+Reaction,_______ + Lithium Chloride --> silver chloride + Lithium nitrate,silver nitrate

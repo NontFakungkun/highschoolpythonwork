@@ -1,0 +1,13 @@
+Add some images
+create dynamic question counting (can automically change from just changing amount of question in Each topic)
+For preventing confusion. No feedback present when correct or incorrect answer made and place score bar at top right corner
+change some names to fit its function more
+
+lower case for easier answer - adjust data file and .lowercase /
+
+screen don't change when click from report screen /
+
+
+width and bg color
+bd for border
+lower case-capitalize for name
